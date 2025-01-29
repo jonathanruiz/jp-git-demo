@@ -1,2 +1,2 @@
-newVar = "Hello World"
+newVar = "You suck Jordan!"
 print(newVar)
